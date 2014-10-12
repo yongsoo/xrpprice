@@ -1,5 +1,5 @@
 {
-  "name": "XRP Price",
+  "name": "xrpPrice",
   "version": "0.0.1",
   "description": "Tweets latest XRP price from @xrpprice",
   "main": "index.js",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yongsoo/xrpprice/issues"
   },
-  "homepage": "https://github.com/yongsoo/xrpprice"
+  "homepage": "https://github.com/yongsoo/xrpprice",
+  "dependencies": {
+    "twit": "^1.1.18"
+  }
 }
