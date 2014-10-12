@@ -1,0 +1,19 @@
+{
+  "name": "XRP Price",
+  "version": "0.0.1",
+  "description": "Tweets latest XRP price from @xrpprice",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yongsoo/xrpprice.git"
+  },
+  "author": "Yong-Soo Chung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yongsoo/xrpprice/issues"
+  },
+  "homepage": "https://github.com/yongsoo/xrpprice"
+}
